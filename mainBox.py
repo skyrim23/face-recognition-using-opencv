@@ -5,7 +5,7 @@ import numpy as np
 
 class progress:
     def detect():
-        FaceDetect = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
+        FaceDetect = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
         cam = cv2.VideoCapture(0)
         id=input("Enter your roll number :")
         sampleNum=0
