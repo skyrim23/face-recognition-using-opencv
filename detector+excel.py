@@ -127,7 +127,7 @@ def display_plot(n):
         
     
     
-#detector()
+detector()
 excel()
 
 ch=int(input("you want to display :\n1.All rows 2.one row  3.more than one row"))
