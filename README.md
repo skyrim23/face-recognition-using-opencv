@@ -19,4 +19,4 @@ Now that IDs have been written to student.xls file its time to play with this da
 
 
 # Note: 
-This model has been tested on windows 10, python 3.6 and opencv 3.4 and has efficency of about 67%.
+This model has been tested on windows 10, python 3.6 and opencv 3.4 and has efficiency of about 67%.
