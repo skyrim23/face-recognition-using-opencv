@@ -16,3 +16,7 @@ Now what you have to do is make changes to student.xls file as per your requirem
 
 # Step 4:
 Now that IDs have been written to student.xls file its time to play with this data. For displaying a histogram of attendance of all students just enter option '1' and see the magic!
+
+
+# Note: 
+This model has been tested on windows 10, python 3.6 and opencv 3.4 and has efficency of about 67%.
