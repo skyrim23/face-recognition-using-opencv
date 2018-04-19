@@ -141,8 +141,6 @@ def detector():
                 cv2.putText(img,str(ID)+str(round(conf)),(x,y+h),font,3,(255,255,255),4,cv2.LINE_AA);
                 w_sheet.write(ID,cnt,'P')
                 wb.save('student.xls') 
-                #but this doesnt solve the problem that by creating an array it will also consider student's roll no which does not exist.
-            
         cv2.imshow("Face",img);
         if(cv2.waitKey(1)==ord('q')):
             break;
