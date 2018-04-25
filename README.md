@@ -3,7 +3,8 @@ This project is about face recognition for autonomous attendance system.
 
 
 # Before starting:
-1.We have used android smartphone's camera as input to the program. For this you have to install 'IP webcam' app from playstore (https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en).
+1. We have used android smartphone's camera as input to the program. For this you have to install 'IP webcam' app from playstore (https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en).
+
 2. Make changes in student.xls file as per your requirement.
 
   Run the mainfile.py file and a small gui will appear on screen. 
@@ -18,4 +19,4 @@ If you want students list whose attendance is less than 75% then click the 'deta
 
 
 # Note: 
-This model has been tested on windows 10, python 3.6 and opencv 3.4 and has efficiency of about 67%.
+This model has been tested on windows 10, python 3.6 and opencv 3.4 and has accuracy of about 67%.
