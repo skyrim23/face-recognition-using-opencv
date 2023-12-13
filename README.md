@@ -1,5 +1,5 @@
 # face-recognition-using-opencv
-This project is about face recognition for autonomous attendance system.
+This project aims to develop an autonomous attendance system that uses face recognition technology to identify and verify individuals’ facial features and record attendance automatically.
 
 
 # Before starting:
